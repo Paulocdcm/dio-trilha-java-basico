@@ -15,6 +15,6 @@ public class exercicio{
         media = ( A * 3.5 +   B * 7.5)/11; 
 
         System.out.printf("MEDIA = %.5f", + media );
-        System.out.println();2
+        System.out.println();
     }
 }

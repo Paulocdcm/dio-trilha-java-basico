@@ -1,0 +1,90 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "java-basico_968966ba"
+        },
+        {
+            "type": "java",
+            "name": "AulaSCannerr",
+            "request": "launch",
+            "mainClass": "AulaSCannerr",
+            "projectName": "java-basico_968966ba"
+        },
+        {
+            "type": "java",
+            "name": "exercicio",
+            "request": "launch",
+            "mainClass": "exercicio",
+            "projectName": "java-basico_968966ba"
+        },
+        {
+            "type": "java",
+            "name": "aulascanner",
+            "request": "launch",
+            "mainClass": "aulascanner",
+            "projectName": "java-basico_968966ba"
+        },
+        {
+            "type": "java",
+            "name": "Scanners",
+            "request": "launch",
+            "mainClass": "Scanners",
+            "projectName": "java-basico_968966ba"
+        },
+        {
+            "type": "java",
+            "name": "Scanner",
+            "request": "launch",
+            "mainClass": "Scanner",
+            "projectName": "java-basico_968966ba"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "java-basico_968966ba",
+            "args": [
+                "PAULO",
+                "CESAR",
+                "70",
+                "1.99"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "java-basico_968966ba"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "java-basico_968966ba"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "java-basico_968966ba"
+        }
+    ]
+}
